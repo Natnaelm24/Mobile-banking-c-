@@ -1,6 +1,3 @@
-/*
-Author: Mulugeta M.
-
 Description: Mimic a basic bank application that allows bankers to:
     1. Open new account
     2. Deposit funds
